@@ -1,4 +1,4 @@
-# template-springboot
+# Spring-Configuration-Server
 Sample Gradle Spring Boot Rest API with Junit 5. 
 
 ### Spring Reference
